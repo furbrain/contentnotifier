@@ -1,0 +1,7 @@
+base   contentnotifier
+author Phil Underwood
+email  beardydoc@gmail.com
+date   2024-06-20
+name   contentnotifier plugin
+desc   This plugin sends an email to specified addresses if changes are made to a page containing content of interest
+url    https://www.dokuwiki.org/plugin:contentnotifier
