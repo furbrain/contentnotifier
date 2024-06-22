@@ -6,4 +6,7 @@
  * @author Phil Underwood <beardydoc@gmail.com>
  */
 
-//$meta['fixme'] = array('string');
+$meta['content'] = array('string');
+$meta['case_sensitive'] = array('onoff');
+$meta['users'] = array('array');
+

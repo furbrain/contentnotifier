@@ -6,4 +6,7 @@
  * @author Phil Underwood <beardydoc@gmail.com>
  */
 
-//$conf['fixme']    = 'FIXME';
+$conf['content'] = '';
+$conf['case_sensitive'] = 0;
+$conf['users'] = '';
+
